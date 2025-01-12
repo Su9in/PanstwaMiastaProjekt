@@ -1,0 +1,3 @@
+/home/maatapeja/Desktop/projekt2/build/CMakeFiles/serwer.dir
+/home/maatapeja/Desktop/projekt2/build/CMakeFiles/edit_cache.dir
+/home/maatapeja/Desktop/projekt2/build/CMakeFiles/rebuild_cache.dir
